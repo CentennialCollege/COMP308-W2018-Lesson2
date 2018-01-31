@@ -4,7 +4,7 @@
   "private": true,
   "description": "Demo Project for NodeJS and Express Generator",
   "scripts": {
-    "start": "node ./bin/www"
+    "start": "node index.js"
   },
   "engines": {
     "node": ">=9.4.0",
